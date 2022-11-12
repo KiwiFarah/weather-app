@@ -1,4 +1,4 @@
-#LIVE DEMO : https://kiwifarah.github.io/weather-app/
+# LIVE DEMO : https://kiwifarah.github.io/weather-app/
 
 # Getting Started with Create React App
 
